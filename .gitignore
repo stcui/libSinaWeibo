@@ -1,0 +1,17 @@
+.DS_Store
+*.pbxuser
+*.perspectivev3
+*.mode1v3
+*.xcworkspace
+Build
+build
+xcuserdata
+.DS_Store
+.MacOSX
+.Trash
+.hotfiles.btree
+.Spotlight-V100
+*.pyc
+
+
+
